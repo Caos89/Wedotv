@@ -1,0 +1,27 @@
+
+
+#EXTINF:-1 group-title="DOCUMENTARIO",=== Documentario ===
+
+
+#EXTINF:-1 tvg-logo="https://cdn-01.watch4.com/01/le-vite-degli-altri_red_logo.png" tvg-id="60e4507a06171800072339a3" group-title="DOCUMENTARIO", Le Vite Degli Altri
+https://amg02512-nexodigital-amg02512c2-wedotv-eu-869.playouts.now.amagi.tv/playlist/amg02512-nexodigital-levitedeglialtri-wedotveu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-01.watch4.com/01/house-of-docs_red_logo.png" tvg-id="60e4507a06171800072339a3" group-title="DOCUMENTARIO", House Of Docs
+https://amg02512-nexodigital-amg02512c1-wedotv-eu-871.playouts.now.amagi.tv/playlist/amg02512-nexodigital-houseofdocs-wedotveu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-01.watch4.com/01/love-the-planet-it_red_logo.png" tvg-id="60e4507a06171800072339a3" group-title="DOCUMENTARIO", House Of Docs
+https://amg01821-lovetv-amg01821c11-wedotv-eu-1098.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovetheplanetit-wedotveu/playlist.m3u8
+
+
+#EXTINF:-1 group-title="FILM",=== Film ===
+
+
+#EXTINF:-1 tvg-logo="https://cdn-01.watch4.com/01/1720708315_wedomovies_it_red_logo.png" tvg-id="60e4507a06171800072339a3" group-title="FILM", Wedoty Movies
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomoviesit-ono/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-01.watch4.com/01/1729163993_ibellissimi_red_logo.png" tvg-id="60e4507a06171800072339a3" group-title="FILM", FILM iBELLISSIMI
+https://amg02512-nexodigital-amg02512c3-wedotv-eu-870.playouts.now.amagi.tv/playlist/amg02512-nexodigital-cinemaexcelsior-wedotveu/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TRAILER",=== Trailer ===
+
+
+#EXTINF:-1 tvg-logo="https://cdn-01.watch4.com/01/trailers-it_red_logo.png" tvg-id="60e4507a06171800072339a3" group-title="TRAILER", Trailers
+https://amg01821-lovetv-amg01821c3-wedotv-eu-1097.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-trailersit-wedotveu/playlist.m3u8
